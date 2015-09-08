@@ -1,0 +1,7 @@
+c:\users\b.wood\documents\visual studio 2010\Projects\MähenZeit\MähenZeit\obj\x86\Debug\MähenZeit.Properties.Resources.resources
+c:\users\b.wood\documents\visual studio 2010\Projects\MähenZeit\MähenZeit\obj\x86\Debug\MähenZeit.csproj.GenerateResource.Cache
+c:\users\b.wood\documents\visual studio 2010\Projects\MähenZeit\MähenZeit\bin\Debug\MähenZeit.exe
+c:\users\b.wood\documents\visual studio 2010\Projects\MähenZeit\MähenZeit\bin\Debug\MähenZeit.pdb
+c:\users\b.wood\documents\visual studio 2010\Projects\MähenZeit\MähenZeit\obj\x86\Debug\MähenZeit.exe
+c:\users\b.wood\documents\visual studio 2010\Projects\MähenZeit\MähenZeit\obj\x86\Debug\MähenZeit.pdb
+c:\users\b.wood\documents\visual studio 2010\Projects\MähenZeit\MähenZeit\obj\x86\Debug\MähenZeit.MähenZeit.resources
